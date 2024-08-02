@@ -1,0 +1,139 @@
+{
+    "title": {
+        "media": {
+            "url": "",
+            "caption": "The summer of AI at Forschungszentrum Jülich",
+            "credit": "<a href='https://www.fz-juelich.de/en/research/information-and-the-brain/deep-learning-and-ai'>Forschungszentrum Jülich</a>"
+        },
+        "text": {
+            "headline": "Summer of AI at Forschungszentrum Jülich<br/> 2022 - 2024",
+            "text": "<p> ToDo </p>"
+        }
+    },
+    "events": [
+        {
+            "media": {
+                "url": "",
+                "caption": "Prof. Rainer Waser, coordinator of NEUROTEC",
+                "credit": "<a href='https://blogs.helmholtz.de/research-field-information/2022/09/26/advanced-electronic-materials-ehrt-prof-rainer-waser-als-pionier-der-memristiven-bauelemente/'>Forschungszentrum Jülich / Sascha Kreklau</a>"
+            },
+            "start_date": {
+                "month": "5",
+                "day": "24",
+                "year": "2022"
+            },
+            "text": {
+                "headline": "Save Energy from Brain",
+                "text": "<p>ToDo</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "Supercomputer",
+                "credit": "<a href='https://www.fz-juelich.de/en/news/archive/press-release/2022/first-european-exascale-supercomputer-coming-to-julich'>Forschungszentrum Jülich / Sascha Kreklau</a>"
+            },
+            "start_date": {
+                "month": "6",
+                "day": "15",
+                "year": "2022"
+            },
+            "text": {
+                "headline": "Exascale Supercomputer Coming to Jülich",
+                "text": "<p>To Do</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "Dr. Arne Heittmann",
+                "credit": "<a href='https://www.fz-juelich.de/en/news/archive/feature-stories/faster-than-the-biological-model'>Forschungszentrum Jülich / Sascha Kreklau</a>"
+            },
+            "start_date": {
+                "month": "8",
+                "day": "15",
+                "year": "2022"
+            },
+            "text": {
+                "headline": "Faster than the biological model",
+                "text": "<p>ToDo</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "Martino Calzavara, Yevhenii Kuriatnikov and Maximilian Prüfer",
+                "credit": "<a href='https://www.fz-juelich.de/en/news/archive/highlights/2023/ai-to-help-control-quantum-particles'>TU Wien</a>"
+            },
+            "start_date": {
+                "month": "5",
+                "day": "9",
+                "year": "2023"
+            },
+            "text": {
+                "headline": "AI in quantum physics",
+                "text": "<p>ToDo</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "Prof. Dr. Martin Schultz",
+                "credit": "<a href='https://www.fz-juelich.de/en/news/effzett/2023/intelligent-weather-forecast'>Forschungszentrum Jülich/Ralf-Uwe Limbach</a>"
+            },
+            "start_date": {
+                "year": "2023"
+            },
+            "text": {
+                "headline": "intelligent weather forecast",
+                "text": "<p>ToDo</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "Priv.-Doz. Dr. Philipp Lohmann",
+                "credit": "<a href='https://www.fz-juelich.de/en/news/effzett/2023/detecting-brain-tumours-precisely-and-quickly'>Forschungszentrum Jülich</a>"
+            },
+            "start_date": {
+                "year": "2023"
+            },
+            "text": {
+                "headline": "Detecting brain tomours efficiently",
+                "text": "<p>ToDo</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "ToDo",
+                "credit": "<a href='ToDo'></a>"
+            },
+            "start_date": {
+                "month": "1",
+                "day": "1",
+                "year": "2025"
+            },
+            "text": {
+                "headline": "ToDo",
+                "text": "<p>ToDo</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "",
+                "caption": "AI generated picture of Albert Einstein",
+                "credit": "<a href='https://www.fz-juelich.de/en/news/archive/announcements/2024/ai-as-a-physicist'>Forschungszentrum Jülich/Stable Diffusion image generator</a>"
+            },
+            "start_date": {
+                "month": "2",
+                "day": "7",
+                "year": "2024"
+            },
+            "text": {
+                "headline": "AI as a Physicist",
+                "text": "<p>ToDo</p>"
+            }
+        }
+    ]
+}
